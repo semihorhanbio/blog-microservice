@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: sorhan314/posts
+          image: sorhan/posts:0.0.1
